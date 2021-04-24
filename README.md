@@ -1,5 +1,3 @@
-In this project I will apply data wrangling and exploratory data analysis skills to baseball data. In particular, we want to know how well did [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)) work for the [Oakland A's](https://en.wikipedia.org/wiki/Oakland_Athletics). Was it worthy of a movie?
-
 ## A bit of background
 
 We'll be looking at data about teams in [Major League Baseball](https://en.wikipedia.org/wiki/Major_League_Baseball). A couple of important points:

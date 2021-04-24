@@ -123,12 +123,7 @@ Using this result, I can now create a single plot that makes it easier to compar
 
 Creating a new field to compute each team's spending effiency, given by
 
-<!--
-```
-$efficiency_{ij} = win\_pct_{ij} − expected\_win\_pct_{ij}$
-```
--->
-![](figs/prob8.png)
+![image](https://user-images.githubusercontent.com/43916597/115973944-cce78f80-a526-11eb-9cfb-27149d41d8be.png)
 
 for team `i` in year `j`, where `expected_win_pct` is given above.
 

@@ -76,13 +76,7 @@ Since, comparing payrolls across years is problematic I do a transformation that
 
 I create a new variable in your dataset that standardizes payroll conditioned on year. So, this column for team `i` in year `j` should equal:
 
-<!--
-```
-$ standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}} $
-```
--->
-
-![](figs/prob5_alternate.png)
+![image](https://user-images.githubusercontent.com/43916597/115973956-f0123f00-a526-11eb-8ebd-abe55ff0040e.png)
 
 for team `i` in year `j`.
 
@@ -108,12 +102,7 @@ The regression line gives you expected winning percentage as a function of stand
 
 From these observations we can calculate the expected win percentage for team `i` in year `j` as
 
-<!--
-```
-${expected\_win\_pct_{ij} = 50+2.5×standardized\_payroll_{ij}}$
-```
--->
-![](figs/prob7.png)
+![image](https://user-images.githubusercontent.com/43916597/115973953-e1c42300-a526-11eb-8149-fc49b6cd6f3f.png)
 
 ### Spending efficiency
 
